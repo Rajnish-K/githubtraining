@@ -4,3 +4,6 @@ emoji,
 typing option,
 color full,
 vibrant
+
+,Dark mode
+Some other mode
